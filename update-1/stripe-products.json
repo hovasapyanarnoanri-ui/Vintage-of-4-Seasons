@@ -1,0 +1,191 @@
+{
+  "updated": "2026-10-18",
+  "note": "Stripe product and price IDs synced with vintageof4seasons.com catalog. Use priceId for Checkout line_items.",
+  "products": [
+    {
+      "name": "Handcrafted Winter Angel",
+      "productId": "prod_VRBxKkmRJamzVl",
+      "priceId": "price_1US47KHfCTsHIXuK8XoJy398",
+      "price": 84.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Vintage Carousel Horse Drum Ornament",
+      "productId": "prod_VRBxKSr3TOVanZ",
+      "priceId": "price_1US47LHfCTsHIXuKgXZmQbOk",
+      "price": 74.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Gold Leaf Teardrop Ornament",
+      "productId": "prod_VRBxLBtAdlUPUj",
+      "priceId": "price_1US47MHfCTsHIXuKKwfqjZqj",
+      "price": 59.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Antique Carriage Ornament",
+      "productId": "prod_VRBxVXtkvU7yWB",
+      "priceId": "price_1US47NHfCTsHIXuK43d6oqJk",
+      "price": 124.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Guitar Ornament",
+      "productId": "prod_VRBxPFo7MB8f0T",
+      "priceId": "price_1US47OHfCTsHIXuKbEXv6WAm",
+      "price": 79.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Chandelier Ornament",
+      "productId": "prod_VRBxbYzRIVgheI",
+      "priceId": "price_1US47QHfCTsHIXuKVeUjqK4D",
+      "price": 114.99,
+      "currency": "usd"
+    },
+    {
+      "name": "High Heel Ornament",
+      "productId": "prod_VRBx5z3tyBFyVH",
+      "priceId": "price_1US47RHfCTsHIXuK5a1a1SL5",
+      "price": 44.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Medallion Ornament",
+      "productId": "prod_VRBx7XeFvFAcT2",
+      "priceId": "price_1US47SHfCTsHIXuK54opJUHV",
+      "price": 94.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Mother Mary Ornament",
+      "productId": "prod_VRBxOOOamZVZYm",
+      "priceId": "price_1US47VHfCTsHIXuKEs21B7Ej",
+      "price": 79.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Doves & Crown Ornament",
+      "productId": "prod_VRBxebeRUKqRCv",
+      "priceId": "price_1US47XHfCTsHIXuK62FFdhp3",
+      "price": 79.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Throne Ornament",
+      "productId": "prod_VRBxchyl2lFxRw",
+      "priceId": "price_1US47YHfCTsHIXuKggvMe8zw",
+      "price": 74.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Peacock Ornament",
+      "productId": "prod_VRBxbw00FMP0FF",
+      "priceId": "price_1US47ZHfCTsHIXuKNCtN2vtX",
+      "price": 114.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Ornament Gift Box",
+      "productId": "prod_VRBxrXA0HHBuLo",
+      "priceId": "price_1UQJZvHfCTsHIXuK1KaXqnGa",
+      "price": 190.00,
+      "currency": "usd",
+      "note": "Variable on website; Stripe has fixed starting price"
+    },
+    {
+      "name": "Jeweled Bow Ornament",
+      "productId": "prod_VRBxKztui2ITBF",
+      "priceId": "price_1US47aHfCTsHIXuK0cHonkom",
+      "price": 84.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Cross Ornament",
+      "productId": "prod_VRBxmfqOSJsw2l",
+      "priceId": "price_1UQJa3HfCTsHIXuKyGw6dfFn",
+      "price": 85.00,
+      "currency": "usd",
+      "note": "In Stripe; may not be on current homepage"
+    },
+    {
+      "name": "Mother Mary and Baby Jesus Ornament",
+      "productId": "prod_VRBy1b4sCnjYgY",
+      "priceId": "price_1UQJa5HfCTsHIXuKRBZML0BP",
+      "price": 85.00,
+      "currency": "usd",
+      "note": "In Stripe; may not be on current homepage"
+    },
+    {
+      "name": "Large Medallion Ornament",
+      "productId": "prod_VT078vd1MIbHjF",
+      "priceId": "price_1US46vHfCTsHIXuKQYQ94bCU",
+      "price": 134.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Praying Mary Ornament",
+      "productId": "prod_VT07T3ldnghIEG",
+      "priceId": "price_1US46xHfCTsHIXuKYeQfgcZo",
+      "price": 79.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Angel Ornament",
+      "productId": "prod_VT07Usjl8W1OYi",
+      "priceId": "price_1US46yHfCTsHIXuKHw2KARde",
+      "price": 84.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Sapphire Cameo Ornament",
+      "productId": "prod_VT07GrZv0E00az",
+      "priceId": "price_1US470HfCTsHIXuKsXxKoFim",
+      "price": 84.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Angel of Eternal Love Ornament",
+      "productId": "prod_VT07Pto9XzhFGP",
+      "priceId": "price_1US471HfCTsHIXuKR7UGiPOI",
+      "price": 89.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Ballet Slippers Ornament",
+      "productId": "prod_VT07nPIvMwJZHC",
+      "priceId": "price_1US475HfCTsHIXuKcBYaMxQH",
+      "price": 84.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Ballerina Ornament",
+      "productId": "prod_VT07RZC0wqcw6c",
+      "priceId": "price_1US476HfCTsHIXuK6otSrYpF",
+      "price": 84.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Masquerade Mask Ornament",
+      "productId": "prod_VT07FUaB0h97KX",
+      "priceId": "price_1US478HfCTsHIXuK9zFNCxNh",
+      "price": 84.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Horse Head Ornament",
+      "productId": "prod_VT07R3fKt0zfl9",
+      "priceId": "price_1US479HfCTsHIXuKt0bwWFZf",
+      "price": 84.99,
+      "currency": "usd"
+    },
+    {
+      "name": "Carousel Horse Medallion",
+      "productId": "prod_VT07WQA6CJgn20",
+      "priceId": "price_1US47BHfCTsHIXuK1J7daCsX",
+      "price": 74.99,
+      "currency": "usd"
+    }
+  ]
+}
